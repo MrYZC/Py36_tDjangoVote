@@ -1,0 +1,90 @@
+[
+{
+    "model": "draw_member.member",
+    "pk": 3,
+    "fields": {
+        "name": "\u53ef",
+        "group_name": "\u4ee5"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 4,
+    "fields": {
+        "name": "\u4e0d",
+        "group_name": "\u904e"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 5,
+    "fields": {
+        "name": "\u5e38",
+        "group_name": "\u5e38"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 6,
+    "fields": {
+        "name": "\u4e00",
+        "group_name": "\u822c"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 7,
+    "fields": {
+        "name": "m",
+        "group_name": "e"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 8,
+    "fields": {
+        "name": "f",
+        "group_name": "i"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 9,
+    "fields": {
+        "name": "d",
+        "group_name": "a"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 10,
+    "fields": {
+        "name": "\u5bb9",
+        "group_name": "\u5efa"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 11,
+    "fields": {
+        "name": "\u90fd",
+        "group_name": "\u5beb"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 12,
+    "fields": {
+        "name": "\u662f",
+        "group_name": "\u88ab"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 13,
+    "fields": {
+        "name": "\u6839",
+        "group_name": "\u64da"
+    }
+}
+]

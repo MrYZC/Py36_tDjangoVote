@@ -1,0 +1,33 @@
+-   model: draw_member.member
+    pk: 3
+    fields: {name: "\u53EF", group_name: "\u4EE5"}
+-   model: draw_member.member
+    pk: 4
+    fields: {name: "\u4E0D", group_name: "\u904E"}
+-   model: draw_member.member
+    pk: 5
+    fields: {name: "\u5E38", group_name: "\u5E38"}
+-   model: draw_member.member
+    pk: 6
+    fields: {name: "\u4E00", group_name: "\u822C"}
+-   model: draw_member.member
+    pk: 7
+    fields: {name: m, group_name: e}
+-   model: draw_member.member
+    pk: 8
+    fields: {name: f, group_name: i}
+-   model: draw_member.member
+    pk: 9
+    fields: {name: d, group_name: a}
+-   model: draw_member.member
+    pk: 10
+    fields: {name: "\u5BB9", group_name: "\u5EFA"}
+-   model: draw_member.member
+    pk: 11
+    fields: {name: "\u90FD", group_name: "\u5BEB"}
+-   model: draw_member.member
+    pk: 12
+    fields: {name: "\u662F", group_name: "\u88AB"}
+-   model: draw_member.member
+    pk: 13
+    fields: {name: "\u6839", group_name: "\u64DA"}
